@@ -1,4 +1,12 @@
 <#
+EDIT SCRIPTED ACTION input
+NAME: Install & Update New Teams
+DESCRIPTION: Installs/Updates New Teams client. Enables Teams WVD optimization. Updates WebRTC to the fixed 8/2024 version.
+TAGS: TEST, NMM-SE, Apps install, New VM
+SCRIPT EXECUTION MODE: Individual with restart
+#>
+
+<#
 .SYNOPSIS
     Installs or updates the MS Teams client and enables Teams WVD Optimization mode.
 
